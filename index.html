@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="icon" href="img/favicon.png"/>
+	<title>Virtual dice</title>
+</head>
+<link rel="stylesheet" type="text/css" href="css/style.css">
+<body>
+	<main id="container">
+		<h1>Virtual dice | GAME </h1>
+		<section id="content">
+			<p id="draw">?</p>
+			<figure>
+				<img src="img/0.png" alt="dice" id="diceImg">
+			</figure>
+			
+			<section id="game">
+				<h3>BETS</h3>
+				<input type="number" placeholder="First player" id="firstPlayer">
+				<input type="number" placeholder="Second player" id="secondPlayer">
+				<button id="gameBtn">DRAW</button>
+				<p id="result"></p>
+		</section>
+		</section>
+		
+	</main>
+	<audio preload id="sound" src="assets/dado-rolando.mp3"></audio>
+<script src="js/script.js"></script>
+</body>
+</html>
