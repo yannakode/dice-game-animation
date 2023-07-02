@@ -3,7 +3,7 @@
 This is a simple virtual dice game implemented in JavaScript, HTML, and CSS. It allows two players to place their bets and roll a virtual dice to determine the winner. The game includes animations and sound effects to enhance the user experience.
 
 ## Screenshot
-![Screenshot](imag/dicegame_for_readme.jpg)
+![Screenshot](img/dicegame_for_readme.jpg)
 
 
 ## How to Play
