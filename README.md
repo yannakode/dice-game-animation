@@ -32,3 +32,7 @@ The project consists of the following files:
 ## Compatibility
 
 The game should be compatible with modern web browsers that support HTML5, CSS3, and JavaScript.
+
+## Credits
+
+This project was developed as part of the "JavaScript Course" course taught by "Edison Maia". The course covered JavaScript, HTML, and CSS concepts, and this project was one of the practical activities carried out during the course.
